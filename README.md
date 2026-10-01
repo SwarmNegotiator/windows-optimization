@@ -2,7 +2,7 @@
 
 # WinTune
 
-> **Make Windows fast again. One click. Real results.**
+> **Make Windows fast again. One click. Real results**
 
 <br/>
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/641d1a9a-d523-495d-ab14-187bc08c57ab" />
