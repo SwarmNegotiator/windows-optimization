@@ -1,6 +1,6 @@
 <div align="center">
 
-# WinTune.
+# WinTune
 
 > **Make Windows fast again. One click. Real results**
 
